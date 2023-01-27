@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuadrixYT
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Lua
-- 💞️ I’m looking to collaborate on PrimeRP
+- 💞️ I’m looking to collaborate on QandQCoding
 - 📫 How to reach me Discord: QuadrixYT#0001
 
 <!---
